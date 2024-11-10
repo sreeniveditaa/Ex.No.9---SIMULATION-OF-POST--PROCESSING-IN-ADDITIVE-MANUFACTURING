@@ -1,4 +1,4 @@
-# Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
+# Ex.No. 6.2 - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
 ### DATE: 
 
@@ -47,8 +47,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/user-attachments/assets/d262df95-7f97-42bc-ac10-037871779def)
+
+### Name: Sree Niveditaa Saravanan
+### Register Number: 212223230213
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
